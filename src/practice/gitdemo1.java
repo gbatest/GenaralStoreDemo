@@ -23,10 +23,15 @@ public class gitdemo1 {
 
 		System.out.println("Festivals");
 	}
-	public static void food() {
+	public static void colors() {
 		// TODO Auto-generated method stub
 
-		System.out.println("foodgit ");
+		System.out.println("colors ");
+	}
+	public static void fruits() {
+		// TODO Auto-generated method stub
+
+		System.out.println("fruits ");
 	}
 	
 }
