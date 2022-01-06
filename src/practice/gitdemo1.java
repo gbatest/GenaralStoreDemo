@@ -18,4 +18,15 @@ public class gitdemo1 {
 
 		System.out.println("vacations");
 	}
+	public static void Festivals() {
+		// TODO Auto-generated method stub
+
+		System.out.println("Festivals");
+	}
+	public static void food() {
+		// TODO Auto-generated method stub
+
+		System.out.println("foodgit ");
+	}
+	
 }
