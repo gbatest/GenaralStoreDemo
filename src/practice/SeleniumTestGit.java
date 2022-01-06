@@ -1,6 +1,6 @@
 package practice;
 
-public class janGit {
+public class SeleniumTestGit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
